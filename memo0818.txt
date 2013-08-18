@@ -1,1 +1,2 @@
-test
+サーバ上のXMLファイルを読み込む
+http://www.openspc2.org/JavaScript/Ajax/Ajax_study/chapter02/009/
